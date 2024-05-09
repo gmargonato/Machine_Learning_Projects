@@ -7,7 +7,7 @@ Each project was designed to explore different algorithms, techniques, and/or da
 
 ## Table of Contents
 
-1. (2022 World Cup Winner Prediction)
+1. 2022 World Cup Winner Prediction
 2. Air BnB Classification
 3. Flowers Classification
 4. High School Students Performance Classification

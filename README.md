@@ -7,13 +7,11 @@ Each project was designed to explore different algorithms, techniques, and/or da
 
 ## Table of Contents
 
-1. [Project 1: 2022 World Cup Winner Prediction](#2022_World_Cup_Winner_Prediction.ipynb)
-2. [Project 2: Title](#project-2-title)
-3. [Project 3: Title](#project-3-title)
-   - [Subproject 3.1: Title](#subproject-31-title)
-   - [Subproject 3.2: Title](#subproject-32-title)
-4. [Contributing](#contributing)
-5. [License](#license)
+1. [Project 1: 2022 World Cup Winner Prediction]
+2. [Project 2: Air BnB Classification]
+3. [Project 3: Flowers Classification]
+4. High School Students Performance Classification
+5. Wine Exploratory Data Analysis
 
 ## Contributing
 

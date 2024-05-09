@@ -7,7 +7,7 @@ Each project was designed to explore different algorithms, techniques, and/or da
 
 ## Table of Contents
 
-1. [Project 1: Title](#project-1-title)
+1. [Project 1: 2022 World Cup Winner Prediction](#2022_World_Cup_Winner_Prediction.ipynb)
 2. [Project 2: Title](#project-2-title)
 3. [Project 3: Title](#project-3-title)
    - [Subproject 3.1: Title](#subproject-31-title)
@@ -17,7 +17,4 @@ Each project was designed to explore different algorithms, techniques, and/or da
 
 ## Contributing
 
-If you have ideas for projects or improvements, feel free to contribute! Please fork the repository and create a pull request with your changes. 
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+If you have ideas for projects or improvements, feel free to contribute! Please fork the repository and create a pull request with your changes.
